@@ -34,4 +34,4 @@ video y datos entre el robot y el operador, incluida la teleoperación en **real
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/orlandocamacho)
+[LinkedIn](https://www.linkedin.com/in/orlando-camc/)
