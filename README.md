@@ -29,7 +29,10 @@
 </picture>
 </a>
 
-<!-- VIDEO: drag chapter-teleop-hud.mp4 here in the GitHub editor to get a user-attachments URL -->
+<!-- ▼ VIDEO: click the empty line right below and drop chapter-teleop-hud.mp4 ▼ -->
+
+
+<sub>Teleoperation HUD on Meta Quest 3 · WebRTC over Tailscale · 40–60 ms latency and 18 FPS video over 4G, in the field (Oaxaca)</sub>
 
 What I built: autonomous navigation (ROS 2, Nav2, SLAM, Gazebo), the teleoperation pipeline (WebRTC over Tailscale), the VR HUD for Meta Quest 3, the robot chassis, system integration, and the arm’s motion planning in simulation (MoveIt 2).  
 Team credits: PROTÓN 6-DOF arm, Adán López · AI pest detection, Eliot Calderón.
