@@ -91,6 +91,7 @@ Solo project, in simulation.
 |---|---|---|
 | SOMUS-26 | Urban-mobility analysis platform for Mexico City during the 2026 World Cup, with traffic-video analysis | [Repository](https://github.com/orlandocamc/SOMUS-26) · [Demo](https://orlandocamc.github.io/SOMUS-26/) |
 | SIGLET | Lab-equipment inventory system (Django, MySQL stored procedures, AWS), team of three: backend with Mario Ureña, plus frontend, chatbot and cloud database | [Repository](https://github.com/orlandocamc/siglet) |
+| MindStock | Inventory-management system with computer vision | [Repository](https://github.com/orlandocamc/mindstock) · [Demo](https://mindstock-omega.vercel.app) |
 
 Research: multi-robot coordination with motion capture — research with IBERO faculty.
 
