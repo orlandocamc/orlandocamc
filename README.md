@@ -4,18 +4,19 @@ Estudiante de **Ingeniería en Mecatrónica** en la Universidad Iberoamericana C
 Desarrollo robots autónomos con **ROS 2**: navegación, SLAM, simulación y la transmisión de
 video y datos entre el robot y el operador, incluida la teleoperación en **realidad virtual**.
 
-- 🥇 **1er lugar global — Huawei ICT Competition 2025–2026** (final en Shenzhen) como capitán
-  y líder técnico de JADA Robotics.
-- 🏆 **Global Award — Intel AI Global Impact Festival 2026.**
-- 🔬 Ayudante de investigación en autonomía de robots móviles y asesor del Club de Robótica,
-  Universidad Iberoamericana.
-- 📄 Publicaciones: **COMRob 2026** (aceptado) e **IEEE CAFE 2026**.
+- 🥇 **1er lugar global — Huawei ICT Competition 2025–2026** (final en Shenzhen) con
+  **Plague-Bot VR**, como capitán y líder técnico de JADA Robotics.
+- 🏆 **Global Award Winner — Intel AI Global Impact Festival 2026** con **Plague-Bot VR**.
+- 🌱 **Cofundador del Semillero IBERO** y Líder del Área de Innovación, el programa estudiantil
+  de talento e innovación del Departamento de Ingenierías de la IBERO.
+- 🔬 Ayudante de investigación en autonomía de robots móviles, Universidad Iberoamericana.
+- 📄 Paper aceptado en **COMRob 2026**.
 
 ## Proyectos
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [**Plague-Bot VR**](https://github.com/orlandocamc/plague-bot-vr-showcase) | Robot agrícola autónomo para detección temprana de plagas en invernaderos de tomate, teleoperado en VR. Validado en un invernadero comercial de 20 ha en Oaxaca. Latencia de teleoperación de 40–60 ms medida sobre 4G. | ROS 2 Jazzy · Nav2 · SLAM · Gazebo · WebRTC · Tailscale · Unity · Meta Quest 3 |
+| [**Plague-Bot VR**](https://github.com/orlandocamc/plague-bot-vr-showcase) | Robot agrícola autónomo para detección temprana de plagas en invernaderos de tomate, teleoperado en VR. 1er lugar global en la Huawei ICT Competition 2025–2026 y Global Award Winner del Intel AI Global Impact Festival 2026. Validado en un invernadero comercial de 20 ha en Oaxaca. Latencia de teleoperación de 40–60 ms medida sobre 4G. | ROS 2 Jazzy · Nav2 · SLAM · Gazebo · WebRTC · Tailscale · Unity · Meta Quest 3 |
 | [**ROSMASTER X3 SLAM Stack**](https://github.com/orlandocamc/ROSMASTERX3-SLAM-Stack) | Stack de SLAM, teleoperación y streaming para el robot mecanum Yahboom ROSMASTER X3. | ROS 2 Jazzy · EKF · ZMQ · Foxglove |
 | [**SOMUS-26**](https://github.com/orlandocamc/SOMUS-26) · [demo](https://orlandocamc.github.io/SOMUS-26/) | Plataforma de análisis de movilidad urbana en la CDMX para el Mundial 2026, con análisis de video de tráfico. | YOLOv8 · OpenRouteService · datos geoespaciales |
 | [**MindStock**](https://github.com/orlandocamc/mindstock) · [demo](https://mindstock-omega.vercel.app) | Sistema de gestión de inventarios con visión por computadora. | Java · Python (visión) · Next.js |
